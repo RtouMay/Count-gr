@@ -1,5 +1,5 @@
-// Target date: 26 October 2025 - 14:00
-const targetDate = new Date("2025-10-26T14:00:00");
+// Target date: 25 November 2025 - 14:00
+const targetDate = new Date("2025-11-25T14:00:00");
 
 function updateCountdown() {
     const now = new Date();
